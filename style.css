@@ -1,0 +1,31 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Emulogic', sans-serif !important;
+    background-image: url(Recursos/background.jpg);
+    text-align: center;
+}
+
+#division_importante {
+    width: 100%;
+
+}
+
+footer {
+    width: 100%;
+    background-color: azure;
+    position: fixed;
+    bottom: 0;
+    font-family: 'Emulogic', sans-serif !important;
+}
+#controles {
+    background-image: url(Recursos/game_console.png);
+    width: 731px;
+    height: 341px;
+    margin: 0 auto;
+}
+video {
+    margin-top: -20px;
+    margin-left: -10px;
+    transform: scaleX(-1);
+}
